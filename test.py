@@ -22,3 +22,5 @@ t1 = time()
 
 print ("Lista ordenada")
 print (lista, "\n")
+
+print ("Holaaaaa")
